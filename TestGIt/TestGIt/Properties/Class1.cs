@@ -19,7 +19,7 @@ namespace TestGIt
             stanje -= plačilo;
         }
 
-        public void beležiKlic(int min,TipKlica tip)
+        public virtual void beležiKlic(int min,TipKlica tip)
         {
             switch(tip)
             {
@@ -36,5 +36,10 @@ namespace TestGIt
                 
             }
         }
+        public override string ToString()
+        {
+            return Ime + " Dolguje " + stanje + " evrov";
+        }
+
     }
 }

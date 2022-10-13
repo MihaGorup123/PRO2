@@ -13,12 +13,12 @@ namespace TestGIt
             Kupec Janez = new Kupec();
             Janez.Ime = "janez Novak";
             Janez.beležiKlic(10, TipKlica.Stacionarno);
-            Console.WriteLine(Janez.Ime+" dolguje "+Janez.Stanje);
+            Console.WriteLine(Janez.ToString());
 
-            kupec60 Alenka = new kupec60();
+            Kupec Alenka = new kupec60();
             Alenka.Ime = "Alenka Novak";
             Alenka.beležiKlic(100, TipKlica.Mobilno);
-            Console.WriteLine(Alenka.Ime + " dolguje " + Alenka.Stanje);
+            Console.WriteLine(Alenka.ToString());
 
             Console.ReadLine();
         }

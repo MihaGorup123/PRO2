@@ -9,7 +9,7 @@ namespace TestGIt
     internal class kupec60:Kupec
     {
         private int VišjaTarifaPorabljeno;
-        public new void beležiKlic(int min,TipKlica tip)
+        public override void beležiKlic(int min,TipKlica tip)
         {
             switch (tip)
             {
