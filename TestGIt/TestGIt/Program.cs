@@ -10,7 +10,8 @@ namespace TestGIt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git tf outta here");
+
+            Console.ReadLine();
         }
     }
 }
