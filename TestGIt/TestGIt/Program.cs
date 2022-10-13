@@ -15,9 +15,9 @@ namespace TestGIt
             Janez.beležiKlic(10, TipKlica.Stacionarno);
             Console.WriteLine(Janez.Ime+" dolguje "+Janez.Stanje);
 
-            Kupec Alenka = new Kupec();
+            kupec60 Alenka = new kupec60();
             Alenka.Ime = "Alenka Novak";
-            Alenka.beležiKlic(10, TipKlica.Mobilno);
+            Alenka.beležiKlic(100, TipKlica.Mobilno);
             Console.WriteLine(Alenka.Ime + " dolguje " + Alenka.Stanje);
 
             Console.ReadLine();

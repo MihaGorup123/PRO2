@@ -8,8 +8,8 @@ namespace TestGIt
 {
     internal class Kupec
     {
-        private string ime;
-        private decimal stanje;
+        protected string ime;
+        protected decimal stanje;
 
         public decimal Stanje { get => stanje;}
         public string Ime { get => ime; set => ime = value; }
