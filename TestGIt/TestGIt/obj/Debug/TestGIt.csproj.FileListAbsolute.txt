@@ -1,0 +1,8 @@
+D:\PRO2\TestGIt\TestGIt\bin\Debug\TestGIt.exe.config
+D:\PRO2\TestGIt\TestGIt\bin\Debug\TestGIt.exe
+D:\PRO2\TestGIt\TestGIt\bin\Debug\TestGIt.pdb
+D:\PRO2\TestGIt\TestGIt\obj\Debug\TestGIt.csproj.AssemblyReference.cache
+D:\PRO2\TestGIt\TestGIt\obj\Debug\TestGIt.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\TestGIt\TestGIt\obj\Debug\TestGIt.csproj.CoreCompileInputs.cache
+D:\PRO2\TestGIt\TestGIt\obj\Debug\TestGIt.exe
+D:\PRO2\TestGIt\TestGIt\obj\Debug\TestGIt.pdb
