@@ -1,0 +1,8 @@
+D:\PRO2\Structure\Structure\bin\Debug\Structure.exe.config
+D:\PRO2\Structure\Structure\bin\Debug\Structure.exe
+D:\PRO2\Structure\Structure\bin\Debug\Structure.pdb
+D:\PRO2\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+D:\PRO2\Structure\Structure\obj\Debug\Structure.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+D:\PRO2\Structure\Structure\obj\Debug\Structure.exe
+D:\PRO2\Structure\Structure\obj\Debug\Structure.pdb

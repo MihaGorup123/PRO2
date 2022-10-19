@@ -1,0 +1,8 @@
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\bin\Debug\RazredPravokotnik.exe.config
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\bin\Debug\RazredPravokotnik.exe
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\bin\Debug\RazredPravokotnik.pdb
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\obj\Debug\RazredPravokotnik.csproj.AssemblyReference.cache
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\obj\Debug\RazredPravokotnik.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\obj\Debug\RazredPravokotnik.csproj.CoreCompileInputs.cache
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\obj\Debug\RazredPravokotnik.exe
+D:\PRO2\RazredPravokotnik\RazredPravokotnik\obj\Debug\RazredPravokotnik.pdb
