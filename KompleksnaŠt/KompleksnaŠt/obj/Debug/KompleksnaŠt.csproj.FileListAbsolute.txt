@@ -1,0 +1,11 @@
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\bin\Debug\KompleksnaŠt.exe.config
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\bin\Debug\KompleksnaŠt.exe
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\bin\Debug\KompleksnaŠt.pdb
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.csproj.AssemblyReference.cache
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.Form1.resources
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.Properties.Resources.resources
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.csproj.GenerateResource.cache
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.csproj.CoreCompileInputs.cache
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.exe
+D:\PRO2\KompleksnaŠt\KompleksnaŠt\obj\Debug\KompleksnaŠt.pdb

@@ -1,0 +1,8 @@
+D:\PRO2\matrike\matrike\bin\Debug\matrike.exe.config
+D:\PRO2\matrike\matrike\bin\Debug\matrike.exe
+D:\PRO2\matrike\matrike\bin\Debug\matrike.pdb
+D:\PRO2\matrike\matrike\obj\Debug\matrike.csproj.AssemblyReference.cache
+D:\PRO2\matrike\matrike\obj\Debug\matrike.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\matrike\matrike\obj\Debug\matrike.csproj.CoreCompileInputs.cache
+D:\PRO2\matrike\matrike\obj\Debug\matrike.exe
+D:\PRO2\matrike\matrike\obj\Debug\matrike.pdb

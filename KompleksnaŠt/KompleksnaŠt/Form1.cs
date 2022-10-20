@@ -26,12 +26,9 @@ namespace KompleksnaŠt
         {
 
         }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
+ /**********************************************************************************************************/
+      
+/***********************************************************************************************************/
         private void label8_Click(object sender, EventArgs e)
         {
 
@@ -39,26 +36,21 @@ namespace KompleksnaŠt
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-           string t1 = textBox1.Text;
-           int št1 = int.Parse(t1);
+          
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            string t2 = textBox2.Text;
-            int št2 = int.Parse(t2);
+          
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
-            string t3 = textBox3.Text;
-            int št3 = int.Parse(t3);
+          
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-            string t4 = textBox4.Text;
-            int št4 = int.Parse(t4);
 
         }
 
@@ -67,11 +59,34 @@ namespace KompleksnaŠt
             double re1 = double.Parse(textBox1.Text);
             double im1 = double.Parse(textBox2.Text);
             KompŠt a = new KompŠt(re1,im1) ;
+            double re2 = double.Parse(textBox3.Text);
+            double im2 = double.Parse(textBox4.Text);
+            KompŠt b = new KompŠt(re2, im2);
+
+            Rezultat.Text = (a + b).ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            double re1 = double.Parse(textBox1.Text);
+            double im1 = double.Parse(textBox2.Text);
+            KompŠt a = new KompŠt(re1, im1);
+            double re2 = double.Parse(textBox3.Text);
+            double im2 = double.Parse(textBox4.Text);
+            KompŠt b = new KompŠt(re2, im2);
 
+            Rezultat.Text = (a - b).ToString();
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            double re1 = double.Parse(textBox1.Text);
+            double im1 = double.Parse(textBox2.Text);
+            KompŠt a = new KompŠt(re1, im1);
+            double re2 = double.Parse(textBox3.Text);
+            double im2 = double.Parse(textBox4.Text);
+            KompŠt b = new KompŠt(re2, im2);
+
+            Rezultat.Text = (a * b).ToString();
         }
     }
 }

@@ -43,6 +43,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
+            this.Rezultat = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -181,11 +182,21 @@
             this.label8.Text = "\r\n";
             this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
+            // Rezultat
+            // 
+            this.Rezultat.AutoSize = true;
+            this.Rezultat.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.Rezultat.Location = new System.Drawing.Point(179, 407);
+            this.Rezultat.Name = "Rezultat";
+            this.Rezultat.Size = new System.Drawing.Size(0, 29);
+            this.Rezultat.TabIndex = 15;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Rezultat);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -226,6 +237,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label Rezultat;
     }
 }
 

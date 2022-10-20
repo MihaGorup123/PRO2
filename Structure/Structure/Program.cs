@@ -17,6 +17,43 @@ namespace Structure
         {
             public double x, y, z;
 
+            public override string ToString()
+            {
+                return "";
+            }
+            //indekser
+            public double this[int i]
+            {
+                set
+                {
+                    switch(i)
+                    {
+                        case 0:
+                            x = value;break;
+                        case 1:
+                            y = value;break;
+                        case 2:
+                            z = value;break;
+                        default:
+                            throw new IndexOutOfRangeException();
+                    }
+                }
+                get
+                {
+                    switch(i)
+                    {
+                        case 0:
+                            return x;
+                        case 1:
+                            return y;
+                        case 2:
+                            return z;
+                        default:
+                            throw new IndexOutOfRangeException();
+                    }
+                }
+            }
+
             public Vektor(double x1, double y1, double z1)
             {
                 x = x1; y = y1; z = z1;
@@ -69,6 +106,10 @@ namespace Structure
             Console.WriteLine(c.ToString());
             c = 5 * V;
             Console.WriteLine(c.ToString());
+            for (int k=0;k<3;k++)
+            {
+                Console.WriteLine(V[k]);
+            }
             Console.ReadLine();
         }
     }
