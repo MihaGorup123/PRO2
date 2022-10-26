@@ -28,7 +28,7 @@ namespace Generiki
             m_items[m_stackPointer] = item;
             m_stackPointer++;
         }
-        public object pop()
+        public t pop()
         {
             m_stackPointer--;
             if (m_stackPointer >= 0)

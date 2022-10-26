@@ -1,0 +1,8 @@
+D:\PRO2\VajaGeneriki\VajaGeneriki\bin\Debug\VajaGeneriki.exe.config
+D:\PRO2\VajaGeneriki\VajaGeneriki\bin\Debug\VajaGeneriki.exe
+D:\PRO2\VajaGeneriki\VajaGeneriki\bin\Debug\VajaGeneriki.pdb
+D:\PRO2\VajaGeneriki\VajaGeneriki\obj\Debug\VajaGeneriki.csproj.AssemblyReference.cache
+D:\PRO2\VajaGeneriki\VajaGeneriki\obj\Debug\VajaGeneriki.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\VajaGeneriki\VajaGeneriki\obj\Debug\VajaGeneriki.csproj.CoreCompileInputs.cache
+D:\PRO2\VajaGeneriki\VajaGeneriki\obj\Debug\VajaGeneriki.exe
+D:\PRO2\VajaGeneriki\VajaGeneriki\obj\Debug\VajaGeneriki.pdb
