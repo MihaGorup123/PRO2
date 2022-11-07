@@ -35,7 +35,8 @@ namespace DeljenjeZNič
 
             catch (Exception exs)
             {
-                MessageBox.Show("vnešeni morata biti dve celi števili \n"+exs.Message);
+                Rezultat.Visible = false;
+                MessageBox.Show("vnešeni morata biti dve celi števili \n"+exs.Message);                
             }
         }
     }
