@@ -1,0 +1,11 @@
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\bin\Debug\DeljenjeZNič.exe.config
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\bin\Debug\DeljenjeZNič.exe
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\bin\Debug\DeljenjeZNič.pdb
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.csproj.AssemblyReference.cache
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.csproj.SuggestedBindingRedirects.cache
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.Form1.resources
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.Properties.Resources.resources
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.csproj.GenerateResource.cache
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.csproj.CoreCompileInputs.cache
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.exe
+D:\PRO2\DeljenjeZNič\DeljenjeZNič\obj\Debug\DeljenjeZNič.pdb
